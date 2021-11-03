@@ -1,0 +1,7 @@
+Start
+//Begin facing away
+while (RightBot && LeftBot) // on table
+  while front sensor doesn't detect something rotate
+    *Until all cups are tracked/detected
+    if (LFront || RFront)
+      square up with MidFront
